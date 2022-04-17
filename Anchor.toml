@@ -6,6 +6,7 @@ facebook_clone = "GNSDgX32cCeuuN96GRiBmFE4BAXqgFpftqxSCzDrdkTd"
 [registry]
 url = "https://anchor.projectserum.com"
 
+
 [provider]
 cluster = "devnet"
 wallet = "~/.config/solana/id.json"
